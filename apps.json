@@ -1,0 +1,128 @@
+[
+  {
+    "app": "a1",
+    "algorithm": "ChaCha20-Poly1305",
+    "algorithm_id": 1,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a2",
+    "algorithm": "ChaCha20-Poly1305",
+    "algorithm_id": 1,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a3",
+    "algorithm": "ChaCha20-Poly1305",
+    "algorithm_id": 1,
+    "mode": "embedded-key",
+    "mode_id": 3
+  },
+  {
+    "app": "a4",
+    "algorithm": "XChaCha20-Poly1305",
+    "algorithm_id": 2,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a5",
+    "algorithm": "XChaCha20-Poly1305",
+    "algorithm_id": 2,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a6",
+    "algorithm": "XChaCha20-Poly1305",
+    "algorithm_id": 2,
+    "mode": "embedded-key",
+    "mode_id": 3
+  },
+  {
+    "app": "a7",
+    "algorithm": "AES-128-GCM",
+    "algorithm_id": 3,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a8",
+    "algorithm": "AES-128-GCM",
+    "algorithm_id": 3,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a9",
+    "algorithm": "AES-128-GCM",
+    "algorithm_id": 3,
+    "mode": "embedded-key",
+    "mode_id": 3
+  },
+  {
+    "app": "a10",
+    "algorithm": "AES-256-GCM",
+    "algorithm_id": 4,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a11",
+    "algorithm": "AES-256-GCM",
+    "algorithm_id": 4,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a12",
+    "algorithm": "AES-256-GCM",
+    "algorithm_id": 4,
+    "mode": "embedded-key",
+    "mode_id": 3
+  },
+  {
+    "app": "a13",
+    "algorithm": "AES-128-GCM-SIV",
+    "algorithm_id": 5,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a14",
+    "algorithm": "AES-128-GCM-SIV",
+    "algorithm_id": 5,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a15",
+    "algorithm": "AES-128-GCM-SIV",
+    "algorithm_id": 5,
+    "mode": "embedded-key",
+    "mode_id": 3
+  },
+  {
+    "app": "a16",
+    "algorithm": "AES-256-GCM-SIV",
+    "algorithm_id": 6,
+    "mode": "password",
+    "mode_id": 1
+  },
+  {
+    "app": "a17",
+    "algorithm": "AES-256-GCM-SIV",
+    "algorithm_id": 6,
+    "mode": "key-file",
+    "mode_id": 2
+  },
+  {
+    "app": "a18",
+    "algorithm": "AES-256-GCM-SIV",
+    "algorithm_id": 6,
+    "mode": "embedded-key",
+    "mode_id": 3
+  }
+]

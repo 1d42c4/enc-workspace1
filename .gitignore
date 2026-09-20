@@ -1,0 +1,12 @@
+/target/
+/dist/
+/verification/logs/
+**/target/
+*.key
+*.enc
+*.pdb
+.env
+/.venv/
+**/__pycache__/
+/.venv/
+**/__pycache__/

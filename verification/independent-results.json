@@ -1,0 +1,259 @@
+{
+  "cryptography": "50.0.1",
+  "pynacl": "1.6.2",
+  "cases": [
+    {
+      "app": "a1",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a1",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a2",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a2",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a2",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a3",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a3",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a4",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a4",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a5",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a5",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a5",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a6",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a6",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a7",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a7",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a8",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a8",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a8",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a9",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a9",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a10",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a10",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a11",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a11",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a11",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a12",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a12",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a13",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a13",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a14",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a14",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a14",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a15",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a15",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a16",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a16",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a17",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a17",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a17",
+      "bytes": 268435457,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a18",
+      "bytes": 0,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    },
+    {
+      "app": "a18",
+      "bytes": 131389,
+      "rust_to_reference": true,
+      "reference_to_rust": true
+    }
+  ],
+  "directions_passed": 84
+}

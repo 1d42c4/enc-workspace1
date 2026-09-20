@@ -1,0 +1,26 @@
+[package]
+name = "a7"
+version.workspace = true
+edition.workspace = true
+rust-version.workspace = true
+publish = false
+description = "AES-128-GCM file encryption with password credentials"
+
+[dependencies]
+solid-core = { path = "../support/solid-core" }
+aes-gcm = { version = "=0.10.3", features = ["zeroize"] }
+
+[dev-dependencies]
+tempfile.workspace = true
+
+[lints]
+workspace = true
+
+# Integration tests exercise the library and the actual executable.
+[lib]
+test = false
+
+[[bin]]
+name = "a7"
+path = "src/main.rs"
+test = false

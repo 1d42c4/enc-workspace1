@@ -1,0 +1,23 @@
+{
+  "verified_at_utc": "2026-09-20T20:22:51.607898+00:00",
+  "toolchain": "1.98.1",
+  "host": "x86_64-pc-windows-msvc",
+  "apps": 18,
+  "cargo_packages": 19,
+  "rust_tests_passed": 452,
+  "per_app_integration_tests": 24,
+  "shared_unit_tests": 20,
+  "release_binaries_built_and_executed": 18,
+  "independent_direction_checks": 84,
+  "large_rekey_boundary_files": 6,
+  "formatting": "passed",
+  "clippy_warnings_denied": "passed",
+  "rustdoc_warnings_denied": "passed",
+  "linux_all_targets_compile_check": "passed; runtime tests require Linux/CI",
+  "windows_launcher_build_a5": "passed",
+  "rustsec_registry_versions_checked": 68,
+  "rustsec_findings": [],
+  "smart_app_control": "Off (user changed setting)",
+  "defender_antivirus": true,
+  "defender_real_time_protection": true
+}

@@ -1,0 +1,91 @@
+{
+  "database_commit": "d5c17953a895cf19e8d3ce66eaa42b6fcfe1fb16",
+  "registry_packages_checked": 68,
+  "method": "Cargo.lock versions compared with non-withdrawn RustSec patched/unaffected ranges. This is not cargo-audit and not an exploitability assessment.",
+  "matching_package_advisories": [
+    {
+      "crate": "aes-gcm",
+      "version": "0.10.3",
+      "advisory": "RUSTSEC-2023-0096",
+      "safe_ranges": [
+        ">= 0.10.3",
+        "< 0.10.0"
+      ]
+    },
+    {
+      "crate": "anstream",
+      "version": "1.0.0",
+      "advisory": "RUSTSEC-2024-0404",
+      "safe_ranges": [
+        ">= 0.6.8"
+      ]
+    },
+    {
+      "crate": "blake2",
+      "version": "0.10.6",
+      "advisory": "RUSTSEC-2019-0019",
+      "safe_ranges": [
+        ">= 0.8.1"
+      ]
+    },
+    {
+      "crate": "chacha20",
+      "version": "0.9.1",
+      "advisory": "RUSTSEC-2019-0029",
+      "safe_ranges": [
+        ">= 0.2.3"
+      ]
+    },
+    {
+      "crate": "generic-array",
+      "version": "0.14.7",
+      "advisory": "RUSTSEC-2020-0146",
+      "safe_ranges": [
+        ">= 0.8.4, < 0.9.0",
+        ">= 0.9.1, < 0.10.0",
+        ">= 0.10.1, < 0.11.0",
+        ">= 0.11.2, < 0.12.0",
+        ">= 0.12.4, < 0.13.0",
+        ">= 0.13.3",
+        "< 0.8.0"
+      ]
+    },
+    {
+      "crate": "once_cell",
+      "version": "1.21.4",
+      "advisory": "RUSTSEC-2019-0017",
+      "safe_ranges": [
+        ">= 1.0.1",
+        "< 0.2.5"
+      ]
+    },
+    {
+      "crate": "rand_core",
+      "version": "0.6.4",
+      "advisory": "RUSTSEC-2019-0035",
+      "safe_ranges": [
+        "^ 0.3.1",
+        ">= 0.4.2"
+      ]
+    },
+    {
+      "crate": "rand_core",
+      "version": "0.6.4",
+      "advisory": "RUSTSEC-2021-0023",
+      "safe_ranges": [
+        ">= 0.6.2",
+        "< 0.6.0"
+      ]
+    },
+    {
+      "crate": "sha2",
+      "version": "0.10.9",
+      "advisory": "RUSTSEC-2021-0100",
+      "safe_ranges": [
+        ">= 0.9.8",
+        "< 0.9.7"
+      ]
+    }
+  ],
+  "findings": []
+}
