@@ -8,7 +8,8 @@ AES-128-GCM-SIV, key-file; verified with Rust 1.98.1 on Windows.
 - Empty and multi-record files verified in both directions against the independent
   implementation. A 256 MiB + 1 byte file also passed both directions across rekeying.
 - Formatting, strict Clippy, rustdoc, and Linux cross-target compile checks passed.
-  Local Linux compile checks are not runtime tests; CI runs tests on Linux separately.
+  Fresh Windows and Linux CI tests and release builds also passed:
+  [verified run](https://github.com/1d42c4/enc-workspace1/actions/runs/35535420074).
 
 Shared code also passed 20 unit tests (published primitive/KDF vectors, permissions,
 password/key handling, no-clobber publication and rekey boundaries). See

@@ -1,0 +1,19 @@
+{
+  "run_url": "https://github.com/1d42c4/enc-workspace1/actions/runs/35535420074",
+  "code_commit": "da6f5da66223af62d67e0b83834c4e71f3522fc3",
+  "conclusion": "success",
+  "jobs": [
+    {
+      "name": "test (windows-latest)",
+      "conclusion": "success",
+      "html_url": "https://github.com/1d42c4/enc-workspace1/actions/runs/35535420074/job/106143461185",
+      "completed_at": "2026-09-20T20:29:03Z"
+    },
+    {
+      "name": "test (ubuntu-latest)",
+      "conclusion": "success",
+      "html_url": "https://github.com/1d42c4/enc-workspace1/actions/runs/35535420074/job/106143461389",
+      "completed_at": "2026-09-20T20:26:42Z"
+    }
+  ]
+}
